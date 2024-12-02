@@ -10,8 +10,7 @@ platforms:
   windows:
 
 environment:
-  sdk: '>=2.18.4 <4.0.0'
-  flutter: ">=1.20.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -29,7 +28,7 @@ dependencies:
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter  
+    sdk: flutter
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -53,7 +52,7 @@ flutter:
   assets:
     - assets/resources/capabilities.json
     - packages/thermal_printer/resources/capabilities.json
-    
+
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
