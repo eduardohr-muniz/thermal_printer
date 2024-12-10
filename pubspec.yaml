@@ -20,7 +20,7 @@ dependencies:
   image: ^4.3.0
   network_info_plus: ^6.1.1
   ping_discover_network_forked: ^0.0.1
-  rxdart: ^0.27.7
+  rxdart: ^0.28.0
   gbk_codec: ^0.4.0
   hex: ^0.2.0
   dart_ping: ^9.0.1
